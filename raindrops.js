@@ -3,23 +3,9 @@
 // convenience to get you started writing code faster.
 //
 
-/* export const convert = () => {
+ export const convert = () => {
   throw new Error('Remove this statement and implement this function');
-}; */
 
-// 3 = pling
-// 5 = plang
-// 7 = plong
-
-
-//string that contains raindrop sounds
-
-let  arrSound = ['Pling' , 'Plang' , 'Plong']
-
-console.log(arrSound.length)
-
-
-for ( let i = 1 ; 1 < 100 ; i++){
   if (i % 5 == 0 && i % 3 == 0){
     console.log('pling')
   }else if (i % 3 == 0){
@@ -29,4 +15,12 @@ for ( let i = 1 ; 1 < 100 ; i++){
   }else{ 
     console.log(i)
   }
-}
+}; 
+
+// 3 = pling
+// 5 = plang
+// 7 = plong
+
+
+//string that contains raindrop sound
+
