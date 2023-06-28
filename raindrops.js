@@ -17,3 +17,16 @@
 let  arrSound = ['Pling' , 'Plang' , 'Plong']
 
 console.log(arrSound.length)
+
+
+for ( let i = 1 ; 1 < 100 ; i++){
+  if (i % 5 == 0 && i % 3 == 0){
+    console.log('pling')
+  }else if (i % 3 == 0){
+    console.log('plang')
+  }else if (i % 5 == 0){
+    console.log('plong')
+  }else{ 
+    console.log(i)
+  }
+}

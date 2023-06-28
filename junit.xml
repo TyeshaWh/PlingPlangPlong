@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="18" failures="18" errors="0" time="1.102">
-  <testsuite name="Raindrops" errors="0" failures="18" skipped="0" timestamp="2023-06-27T20:48:43" time="1.021" tests="18">
+<testsuites name="jest tests" tests="18" failures="18" errors="0" time="1.006">
+  <testsuite name="Raindrops" errors="0" failures="18" skipped="0" timestamp="2023-06-28T14:20:42" time="0.67" tests="18">
     <testcase classname="Raindrops the sound for 1 is 1" name="Raindrops the sound for 1 is 1" time="0.001">
       <failure>TypeError: (0 , _raindrops.convert) is not a function
     at Object.&lt;anonymous&gt; (/projects/challenge/raindrops.spec.js:4:52)
@@ -81,7 +81,7 @@
     at runTestInternal (/projects/challenge/node_modules/jest-runner/build/runTest.js:367:16)
     at runTest (/projects/challenge/node_modules/jest-runner/build/runTest.js:444:34)</failure>
     </testcase>
-    <testcase classname="Raindrops 2 to the power 3 does not make a raindrop sound as 3 is the exponent not the base" name="Raindrops 2 to the power 3 does not make a raindrop sound as 3 is the exponent not the base" time="0">
+    <testcase classname="Raindrops 2 to the power 3 does not make a raindrop sound as 3 is the exponent not the base" name="Raindrops 2 to the power 3 does not make a raindrop sound as 3 is the exponent not the base" time="0.001">
       <failure>TypeError: (0 , _raindrops.convert) is not a function
     at Object.&lt;anonymous&gt; (/projects/challenge/raindrops.spec.js:16:19)
     at Promise.then.completed (/projects/challenge/node_modules/jest-circus/build/utils.js:293:28)
@@ -113,7 +113,7 @@
     at runTestInternal (/projects/challenge/node_modules/jest-runner/build/runTest.js:367:16)
     at runTest (/projects/challenge/node_modules/jest-runner/build/runTest.js:444:34)</failure>
     </testcase>
-    <testcase classname="Raindrops the sound for 10 is Plang as it has a factor 5" name="Raindrops the sound for 10 is Plang as it has a factor 5" time="0.001">
+    <testcase classname="Raindrops the sound for 10 is Plang as it has a factor 5" name="Raindrops the sound for 10 is Plang as it has a factor 5" time="0">
       <failure>TypeError: (0 , _raindrops.convert) is not a function
     at Object.&lt;anonymous&gt; (/projects/challenge/raindrops.spec.js:22:19)
     at Promise.then.completed (/projects/challenge/node_modules/jest-circus/build/utils.js:293:28)
@@ -161,7 +161,7 @@
     at runTestInternal (/projects/challenge/node_modules/jest-runner/build/runTest.js:367:16)
     at runTest (/projects/challenge/node_modules/jest-runner/build/runTest.js:444:34)</failure>
     </testcase>
-    <testcase classname="Raindrops the sound for 21 is PlingPlong as it has factors 3 and 7" name="Raindrops the sound for 21 is PlingPlong as it has factors 3 and 7" time="0">
+    <testcase classname="Raindrops the sound for 21 is PlingPlong as it has factors 3 and 7" name="Raindrops the sound for 21 is PlingPlong as it has factors 3 and 7" time="0.001">
       <failure>TypeError: (0 , _raindrops.convert) is not a function
     at Object.&lt;anonymous&gt; (/projects/challenge/raindrops.spec.js:31:19)
     at Promise.then.completed (/projects/challenge/node_modules/jest-circus/build/utils.js:293:28)
@@ -209,7 +209,7 @@
     at runTestInternal (/projects/challenge/node_modules/jest-runner/build/runTest.js:367:16)
     at runTest (/projects/challenge/node_modules/jest-runner/build/runTest.js:444:34)</failure>
     </testcase>
-    <testcase classname="Raindrops the sound for 35 is PlangPlong as it has factors 5 and 7" name="Raindrops the sound for 35 is PlangPlong as it has factors 5 and 7" time="0.001">
+    <testcase classname="Raindrops the sound for 35 is PlangPlong as it has factors 5 and 7" name="Raindrops the sound for 35 is PlangPlong as it has factors 5 and 7" time="0">
       <failure>TypeError: (0 , _raindrops.convert) is not a function
     at Object.&lt;anonymous&gt; (/projects/challenge/raindrops.spec.js:40:19)
     at Promise.then.completed (/projects/challenge/node_modules/jest-circus/build/utils.js:293:28)
@@ -241,7 +241,7 @@
     at runTestInternal (/projects/challenge/node_modules/jest-runner/build/runTest.js:367:16)
     at runTest (/projects/challenge/node_modules/jest-runner/build/runTest.js:444:34)</failure>
     </testcase>
-    <testcase classname="Raindrops the sound for 52 is 52" name="Raindrops the sound for 52 is 52" time="0.001">
+    <testcase classname="Raindrops the sound for 52 is 52" name="Raindrops the sound for 52 is 52" time="0">
       <failure>TypeError: (0 , _raindrops.convert) is not a function
     at Object.&lt;anonymous&gt; (/projects/challenge/raindrops.spec.js:45:54)
     at Promise.then.completed (/projects/challenge/node_modules/jest-circus/build/utils.js:293:28)
@@ -257,7 +257,7 @@
     at runTestInternal (/projects/challenge/node_modules/jest-runner/build/runTest.js:367:16)
     at runTest (/projects/challenge/node_modules/jest-runner/build/runTest.js:444:34)</failure>
     </testcase>
-    <testcase classname="Raindrops the sound for 105 is PlingPlangPlong as it has factors 3, 5 and 7" name="Raindrops the sound for 105 is PlingPlangPlong as it has factors 3, 5 and 7" time="0.001">
+    <testcase classname="Raindrops the sound for 105 is PlingPlangPlong as it has factors 3, 5 and 7" name="Raindrops the sound for 105 is PlingPlangPlong as it has factors 3, 5 and 7" time="0">
       <failure>TypeError: (0 , _raindrops.convert) is not a function
     at Object.&lt;anonymous&gt; (/projects/challenge/raindrops.spec.js:48:19)
     at Promise.then.completed (/projects/challenge/node_modules/jest-circus/build/utils.js:293:28)
